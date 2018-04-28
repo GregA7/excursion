@@ -5,11 +5,21 @@ h1 {
   color: white;
   align-content: center;
 }
-p {
+p #linkname{
   color: aquamarine;
   font-size: 16px;
 }
 body {
   background-color: black;
   text-align: center;
+}
+h2 {
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 32px;
+}
+p #wordname{
+  font-family: verdana;
+  font-size: 25px;
+  color: gray;
 }
